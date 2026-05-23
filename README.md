@@ -11,7 +11,7 @@
 [![Repo Size](https://img.shields.io/github/languages/code-size/yatinbhalla/Neha-Chappal-Creative-Suite?style=flat-square)](https://github.com/yatinbhalla/Neha-Chappal-Creative-Suite)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-8957e5?style=flat-square)](https://github.com/yatinbhalla/Neha-Chappal-Creative-Suite/pulls)
 
-**[ Live App ](https://ai.studio/apps/drive/1iHn72r9TKpf17lKYDY0Qef_sLjuuaUEX?fullscreenApplet=true)** · **[ Report Issue ](https://github.com/yatinbhalla/Neha-Chappal-Creative-Suite/issues)** · **[ Author ](#-author)**
+**[ Live App ](https://ai.studio/apps/drive/1iHn72r9TKpf17lKYDY0Qef_sLjuuaUEX?fullscreenApplet=true)** · **[ Report Issue ](https://github.com/yatinbhalla/Neha-Chappal-Creative-Suite/issues)** · **[ Author ](https://github.com/yatinbhalla)**
 
 </div>
 
